@@ -10,4 +10,5 @@ For additional information look into: http://codex.wordpress.org/Function_Refere
 The first set is folling the Fibonacci sequence and its respective aspect ratio.
 The second set is optimized for typical blogging dimensions, only altering the width of the image and keeping hight and aspect ratio. 
 
-twitter: @GuntramBechtold, starsmedia.com
+twitter: @GuntramBechtold, 
+web: http://www.starsmedia.com/php-projekte/
